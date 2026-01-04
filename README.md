@@ -4,8 +4,13 @@ Software Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://portfolio-sage-two-47.vercel.app/)                                                 
 - 🌱 I’m currently learning and Devloping, Implementing
-- Bachelor of computer Science at Hindusthan College Of Science And Commerce,
-- Previously worked with [<img src="https://www.instagram.com/nutz.india/related_profiles/?hl=en" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://www.instagram.com/nutz.india/related_profiles/?hl=en">]
+### 🎓 Education
+<img src="https://hindusthan.net/wp-content/uploads/2020/09/hindusthan-logo.png" height="60" align="left" />
+
+**Bachelor of Computer Science**  
+Hindusthan College of Science and Commerce  
+<br clear="left"/>
+
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
