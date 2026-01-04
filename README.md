@@ -11,11 +11,12 @@ Software Developer
 Hindusthan College of Science and Commerce  
 <br clear="left"/>
 ### 💼 Previously Worked With
-<a href="https://www.instagram.com/nutz.india/" target="_blank">
-  <img src="https://i.imgur.com/J5nQZQp.png" height="40" align="left"/>
-</a>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png" height="40" align="left" />
+
 **Nutz India**  
 <br clear="left"/>
+
 
 
 
