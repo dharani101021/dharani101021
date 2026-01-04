@@ -12,10 +12,12 @@ Hindusthan College of Science and Commerce
 <br clear="left"/>
 ### 💼 Previously Worked With
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png" height="40" align="left" />
+<a href="https://www.instagram.com/nutz.india/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/139426?v=4" height="45" alt="Nutz India"/>
+</a>
 
-**Nutz India**  
-<br clear="left"/>
+**Nutz India**
+
 
 
 
