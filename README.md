@@ -5,26 +5,14 @@ Software Developer
 - 🔭 Here's my [portfolio](https://portfolio-sage-two-47.vercel.app/)                                                 
 - 🌱 I’m currently learning and Devloping, Implementing
 ### 🎓 Education
-<img src="https://hindusthan.net/wp-content/uploads/2020/09/hindusthan-logo.png" height="60" align="left" />
-
-### 🎓 Education
-
-<img src="https://hindusthan.net/wp-content/uploads/2020/09/hindusthan-logo.png" height="45" />
-
 **Bachelor of Computer Science**  
 Hindusthan College of Science and Commerce
 
+---
+
 ### 💼 Previously Worked With
-
-<a href="https://www.instagram.com/nutz.india/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/139426?v=4" height="45" alt="Nutz India"/>
-</a>
-
-**Nutz India**
-
-
-
-
+**Nutz India**  
+Digital Brand / Media Company
 
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
