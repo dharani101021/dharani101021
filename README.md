@@ -7,9 +7,13 @@ Software Developer
 ### 🎓 Education
 <img src="https://hindusthan.net/wp-content/uploads/2020/09/hindusthan-logo.png" height="60" align="left" />
 
+### 🎓 Education
+
+<img src="https://hindusthan.net/wp-content/uploads/2020/09/hindusthan-logo.png" height="45" />
+
 **Bachelor of Computer Science**  
-Hindusthan College of Science and Commerce  
-<br clear="left"/>
+Hindusthan College of Science and Commerce
+
 ### 💼 Previously Worked With
 
 <a href="https://www.instagram.com/nutz.india/" target="_blank">
